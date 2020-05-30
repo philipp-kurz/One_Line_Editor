@@ -1,6 +1,6 @@
 # One_Line_Editor
 "One Line Editor" is a command line program that lets the user edit a string just like in a text editor (e.g. Notepad).
-The project is implemented entirely in C and was written from scratch.
+The project is implemented entirely in C and was written from scratch using Visual Studio.
 
 It served as a final project for the class "Intro to Programming using C" at Esslingen University during Fall 2017 semester, and reinforced basic programming paradigms as well as C's functionality of pointers, structs and strings.
 
